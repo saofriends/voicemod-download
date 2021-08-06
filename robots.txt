@@ -1,0 +1,5 @@
+User-agent: *
+Allow: 
+
+Sitemap: https://voicemod-download.herokuapp.com/host-https-www.voicemod.net/sitemap.xml
+Sitemap: https://voicemod-download.herokuapp.com/sitemap/sitemap.xml
